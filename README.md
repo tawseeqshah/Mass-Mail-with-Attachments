@@ -1,6 +1,5 @@
 # Mass-Mail-with-Attachments
 Python code for mass mail sending along with attachments.
-Some useful instructions:
 My excel sheet looks like this:
 ![image](https://user-images.githubusercontent.com/116233019/196860205-f84bb2e7-c869-411e-96e2-c27d656f50ba.png)
 
